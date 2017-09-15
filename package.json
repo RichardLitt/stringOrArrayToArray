@@ -14,7 +14,6 @@
     "email": "richard.littauer@gmail.com",
     "url": "https://burntfen.com"
   },
-  "bin": "cli.js",
   "scripts": {
     "lint": "standard",
     "test": "standard && ava",
