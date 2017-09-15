@@ -1,6 +1,6 @@
 # stringOrArrayToArray
 
-[![Build Status](https://travis-ci.org/RichardLitt/stringorarraytoarray.svg?branch=master)](https://travis-ci.org/RichardLitt/stringorarraytoarray)
+[![Build Status](https://travis-ci.org/RichardLitt/stringOrArrayToArray.svg?branch=master)](https://travis-ci.org/RichardLitt/stringOrArrayToArray)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![npm version](https://badge.fury.io/js/stringOrArrayToArray.svg)](https://badge.fury.io/js/stringOrArrayToArray)
 
@@ -9,13 +9,13 @@
 ## Install
 
 ```
-$ npm install --save stringorarraytoarray
+$ npm install --save stringOrArrayToArray
 ```
 
 ## Usage
 
 ```js
-const toArray = require('stringorarraytoarray');
+const toArray = require('stringOrArrayToArray');
 
 toArray('unicorns');
 //=> ['unicorns']
@@ -25,7 +25,7 @@ toArray(['unicorns', 'rainbows']);
 
 ## API
 
-### stringorarraytoarray(input)
+### stringOrArrayToArray(input)
 
 #### input
 
@@ -33,7 +33,7 @@ Type: `string`, `array`
 
 ## Contribute
 
-PRs accepted. Check out the [issues](https://github.com/RichardLitt/stringorarraytoarray/issues)!
+PRs accepted. Check out the [issues](https://github.com/RichardLitt/stringOrArrayToArray/issues)!
 
 ## License
 

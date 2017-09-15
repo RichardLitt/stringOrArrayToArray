@@ -1,18 +1,18 @@
 {
-  "name": "stringorarraytoarray",
+  "name": "stringOrArrayToArray",
   "version": "1.0.0",
   "description": "Convert a String or an Array to an Array",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RichardLitt/stringorarraytoarray.git"
+    "url": "https://github.com/RichardLitt/stringOrArrayToArray.git"
   },
-  "homepage": "https://github.com/RichardLitt/stringorarraytoarray",
-  "bugs": "https://github.com/RichardLitt/stringorarraytoarray/issues",
+  "homepage": "https://github.com/RichardLitt/stringOrArrayToArray",
+  "bugs": "https://github.com/RichardLitt/stringOrArrayToArray/issues",
   "author": {
     "name": "Richard Littauer",
     "email": "richard.littauer@gmail.com",
-    "url": "burntfen.com"
+    "url": "https://burntfen.com"
   },
   "bin": "cli.js",
   "scripts": {
