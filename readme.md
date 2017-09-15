@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/RichardLitt/stringOrArrayToArray.svg?branch=master)](https://travis-ci.org/RichardLitt/stringOrArrayToArray)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![npm version](https://badge.fury.io/js/stringOrArrayToArray.svg)](https://badge.fury.io/js/stringOrArrayToArray)
+[![npm version](https://badge.fury.io/js/stringorarraytoarray.svg)](https://badge.fury.io/js/stringorarraytoarray)
 
 > Convert a String or an Array to an Array
 
