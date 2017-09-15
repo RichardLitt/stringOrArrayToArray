@@ -1,6 +1,6 @@
 {
   "name": "stringorarraytoarray",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a String or an Array to an Array",
   "license": "MIT",
   "repository": {
